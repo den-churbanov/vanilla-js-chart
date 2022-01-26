@@ -1,0 +1,17 @@
+{
+  "name": "canvas-vanilla-js",
+  "version": "1.0.0",
+  "description": "canvas, vanillajs, graphics",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "parcel ./src/index.html -p 3000 --open",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "Denis Churbanov <churabmov.dv@gamil.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.35.1"
+  }
+}
