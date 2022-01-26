@@ -13,4 +13,3 @@ function t(t,o){return e(t)||n(t,o)||a(t,o)||r()}function r(){throw new TypeErro
 },{"./utils":"FOZT","./tooltip":"kJRr","./slider":"Nwn9","./styles.scss":"I4sy"}],"A2T1":[function(require,module,exports) {
 "use strict";var t=require("./data"),e=require("./chart"),r=(0,e.chart)(document.getElementById("chart"),(0,t.getChartData)());r.init();
 },{"./data":"paDP","./chart":"YxI8"}]},{},["A2T1"], null)
-//# sourceMappingURL=/app.07c17a51.js.map

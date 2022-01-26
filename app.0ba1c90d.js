@@ -13,4 +13,3 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./utils":"FOZT","./tooltip":"kJRr","./slider":"Nwn9","./styles.scss":"I4sy"}],"A2T1":[function(require,module,exports) {
 "use strict";var t=require("./data"),e=require("./chart"),r=(0,e.chart)(document.getElementById("chart"),(0,t.getChartData)());r.init();
 },{"./data":"paDP","./chart":"YxI8"}]},{},["A2T1"], null)
-//# sourceMappingURL=/app.0ba1c90d.js.map
